@@ -1,4 +1,2 @@
 #Tutvustus
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks. Seda kasutavad peamiselt tarkvaraarendajad.
-#Isiklik kasutamine
-Arvatavasti grupis tarkvara arendamiseks võib GitHubi vaja minna tulevikus.
