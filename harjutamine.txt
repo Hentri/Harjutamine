@@ -2,3 +2,5 @@
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks. Seda kasutavad peamiselt tarkvaraarendajad.
 #Isiklik kasutamine
 Arvatavasti tulevikus vaja githubi kasutada tarkvara arendamiseks grupis.
+#Ajalugu
+Veebruaris 2008 asutasid Githubi (tollase nimega Logical Awesome LLC) Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. Sama aasta aprillis tehti see kättesaadavaks tavakasutajatele.
