@@ -1,1 +1,5 @@
+#Tutvustus
 GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks. Seda kasutavad peamiselt tarkvaraarendajad.
+GitHubi saan ise potentsiaalselt kasutada projekti/vajaduse põhiselt grupis tarkvarade arendamisel.
+#Ajalugu
+Github asustati 8ndal veebruaril 2008. aasta ja omas nime Logical Awesome LLC. Asutajad olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. Aprillis samal aastal tehti see kättesaadavaks kasutajatele.
